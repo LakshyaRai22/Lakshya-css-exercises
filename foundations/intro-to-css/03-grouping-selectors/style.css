@@ -1,8 +1,8 @@
 /* Add CSS Styling */
 
-.black-button
+.black-button,
 .yellow-button {
-    font-size: 70px;
+    font-size: 28px;
     font-family: "Helvetica", "Times New Roman", sans-serif;
 }
 
